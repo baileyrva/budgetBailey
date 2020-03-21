@@ -22,3 +22,7 @@ The application is deployed using github and heroku. The main pages can be opene
 
 I was the main creator of the main application and repository. For help when facing obstacles I leaned on my friend Blake, and my friend Chris. Blake is a programmer with 7+ years in the business, and Chris is a work friend who is a fantastic problem solver. I also used YouTube to find different videos on JavaScript, Node.js, express routes,and various troubleshooting tips. 
 
+![Screenshot (37)](https://user-images.githubusercontent.com/56370824/77237461-c017a000-6b9e-11ea-9baa-08f642fe614d.png)
+
+
+![Screenshot (38)](https://user-images.githubusercontent.com/56370824/77237464-c6a61780-6b9e-11ea-96ef-95d880af9412.png)
