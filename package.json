@@ -1,0 +1,33 @@
+{
+  "name": "budgetbailey",
+  "version": "1.0.0",
+  "description": "a budget tracking application for online and off",
+  "main": "server.js",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "lite-server": "^2.5.4",
+    "mongoose": "^5.9.5",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baileyrva/budgetBailey.git"
+  },
+  "keywords": [
+    "budget",
+    "tracking",
+    "offline"
+  ],
+  "author": "baileyrva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baileyrva/budgetBailey/issues"
+  },
+  "homepage": "https://github.com/baileyrva/budgetBailey#readme"
+}
